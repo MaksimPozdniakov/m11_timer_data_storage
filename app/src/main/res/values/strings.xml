@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Repository Task</string>
+    <string name="text_for_textView">Сюда будет выведена информация из Repository</string>
+    <string name="buttonSave">Сохранить</string>
+    <string name="buttonClear">Очистить</string>
+    <string name="fieldEditTExt">Введите текст</string>
+</resources>

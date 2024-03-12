@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.RepositoryTask" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:background">@color/back_app</item>
+    </style>
+
+    <style name="Theme.RepositoryTask" parent="Base.Theme.RepositoryTask" />
+
+    <style name="TextStyleForButtons">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/text_color_for_buttons</item>
+        <item name="android:backgroundTint">@color/for_elements</item>
+    </style>
+
+    <style name="TextStyleForTextView">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/text_color_for_buttons</item>
+    </style>
+
+</resources>
