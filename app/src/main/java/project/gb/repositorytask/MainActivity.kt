@@ -34,6 +34,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.buttonClear.setOnClickListener {
             repository.clearText()
+            binding.textView.text = ""
             Toast.makeText(this, "Репозиторий очищен", Toast.LENGTH_SHORT).show()
         }
     }
